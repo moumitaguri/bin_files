@@ -1,1 +1,0 @@
-preCommitMessage.sh

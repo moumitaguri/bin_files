@@ -1,1 +1,0 @@
-configGit.sh
